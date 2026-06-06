@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/castia-market-insight/static/css/main.3fd9453f.css",
+    "main.js": "/castia-market-insight/static/js/main.39551d89.js",
+    "index.html": "/castia-market-insight/index.html",
+    "main.3fd9453f.css.map": "/castia-market-insight/static/css/main.3fd9453f.css.map",
+    "main.39551d89.js.map": "/castia-market-insight/static/js/main.39551d89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd9453f.css",
+    "static/js/main.39551d89.js"
+  ]
+}

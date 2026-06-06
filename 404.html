@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Castia Market</title>
+    <script>
+      // Single-Page-App redirect for GitHub Pages.
+      // Rewrites /cmi-web-v2/some/route?x=1 -> /cmi-web-v2/?/some/route&x=1
+      // so the index.html bootloader can restore the URL and react-router can pick it up.
+      // See: https://github.com/rafgraph/spa-github-pages
+      (function () {
+        var segmentCount = 1; // basename = /cmi-web-v2
+        var l = window.location;
+        l.replace(
+          l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+          l.pathname.split('/').slice(0, 1 + segmentCount).join('/') + '/?/' +
+          l.pathname.slice(1).split('/').slice(segmentCount).join('/').replace(/&/g, '~and~') +
+          (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+          l.hash
+        );
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

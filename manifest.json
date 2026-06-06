@@ -1,0 +1,26 @@
+{
+  "name": "Castia Market",
+  "short_name": "Castia",
+  "description": "Live Minecraft auction-house price tracker for the Castia server.",
+  "start_url": "/castia-market-insight/",
+  "scope": "/castia-market-insight/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0A0C10",
+  "theme_color": "#0A0C10",
+  "categories": ["utilities", "productivity", "games"],
+  "icons": [
+    {
+      "src": "/castia-market-insight/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/castia-market-insight/icon-maskable.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
