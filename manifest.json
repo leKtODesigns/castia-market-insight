@@ -1,7 +1,7 @@
 {
   "name": "Castia Market",
   "short_name": "Castia",
-  "description": "Live Minecraft auction-house price tracker for the Castia server.",
+  "description": "Castia auction-house price tracker, refreshed every five minutes.",
   "start_url": "/castia-market-insight/",
   "scope": "/castia-market-insight/",
   "display": "standalone",
