@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/castia-market-insight/static/css/main.cb8495a3.css",
-    "main.js": "/castia-market-insight/static/js/main.a8663d16.js",
+    "main.css": "/castia-market-insight/static/css/main.e5ff73a1.css",
+    "main.js": "/castia-market-insight/static/js/main.b87218df.js",
     "static/js/658.b38d6cbd.chunk.js": "/castia-market-insight/static/js/658.b38d6cbd.chunk.js",
     "static/js/493.660e94c1.chunk.js": "/castia-market-insight/static/js/493.660e94c1.chunk.js",
     "static/js/854.994b156a.chunk.js": "/castia-market-insight/static/js/854.994b156a.chunk.js",
@@ -11,15 +11,17 @@
     "static/js/59.a8433979.chunk.js": "/castia-market-insight/static/js/59.a8433979.chunk.js",
     "static/js/667.0d0d2921.chunk.js": "/castia-market-insight/static/js/667.0d0d2921.chunk.js",
     "static/js/870.7d1cc436.chunk.js": "/castia-market-insight/static/js/870.7d1cc436.chunk.js",
-    "static/js/775.53b96572.chunk.js": "/castia-market-insight/static/js/775.53b96572.chunk.js",
+    "static/js/775.fd4f1c75.chunk.js": "/castia-market-insight/static/js/775.fd4f1c75.chunk.js",
     "static/js/411.8f10a394.chunk.js": "/castia-market-insight/static/js/411.8f10a394.chunk.js",
     "static/js/129.a7b8f38e.chunk.js": "/castia-market-insight/static/js/129.a7b8f38e.chunk.js",
+    "static/js/361.5f0554c4.chunk.js": "/castia-market-insight/static/js/361.5f0554c4.chunk.js",
+    "static/js/394.e3d7318c.chunk.js": "/castia-market-insight/static/js/394.e3d7318c.chunk.js",
     "static/js/597.242ca0a3.chunk.js": "/castia-market-insight/static/js/597.242ca0a3.chunk.js",
-    "static/js/277.d499609f.chunk.js": "/castia-market-insight/static/js/277.d499609f.chunk.js",
-    "static/js/795.beae1ee7.chunk.js": "/castia-market-insight/static/js/795.beae1ee7.chunk.js",
+    "static/js/277.8d1ffa4d.chunk.js": "/castia-market-insight/static/js/277.8d1ffa4d.chunk.js",
+    "static/js/795.55f7bd7d.chunk.js": "/castia-market-insight/static/js/795.55f7bd7d.chunk.js",
     "index.html": "/castia-market-insight/index.html",
-    "main.cb8495a3.css.map": "/castia-market-insight/static/css/main.cb8495a3.css.map",
-    "main.a8663d16.js.map": "/castia-market-insight/static/js/main.a8663d16.js.map",
+    "main.e5ff73a1.css.map": "/castia-market-insight/static/css/main.e5ff73a1.css.map",
+    "main.b87218df.js.map": "/castia-market-insight/static/js/main.b87218df.js.map",
     "658.b38d6cbd.chunk.js.map": "/castia-market-insight/static/js/658.b38d6cbd.chunk.js.map",
     "493.660e94c1.chunk.js.map": "/castia-market-insight/static/js/493.660e94c1.chunk.js.map",
     "854.994b156a.chunk.js.map": "/castia-market-insight/static/js/854.994b156a.chunk.js.map",
@@ -29,15 +31,17 @@
     "59.a8433979.chunk.js.map": "/castia-market-insight/static/js/59.a8433979.chunk.js.map",
     "667.0d0d2921.chunk.js.map": "/castia-market-insight/static/js/667.0d0d2921.chunk.js.map",
     "870.7d1cc436.chunk.js.map": "/castia-market-insight/static/js/870.7d1cc436.chunk.js.map",
-    "775.53b96572.chunk.js.map": "/castia-market-insight/static/js/775.53b96572.chunk.js.map",
+    "775.fd4f1c75.chunk.js.map": "/castia-market-insight/static/js/775.fd4f1c75.chunk.js.map",
     "411.8f10a394.chunk.js.map": "/castia-market-insight/static/js/411.8f10a394.chunk.js.map",
     "129.a7b8f38e.chunk.js.map": "/castia-market-insight/static/js/129.a7b8f38e.chunk.js.map",
+    "361.5f0554c4.chunk.js.map": "/castia-market-insight/static/js/361.5f0554c4.chunk.js.map",
+    "394.e3d7318c.chunk.js.map": "/castia-market-insight/static/js/394.e3d7318c.chunk.js.map",
     "597.242ca0a3.chunk.js.map": "/castia-market-insight/static/js/597.242ca0a3.chunk.js.map",
-    "277.d499609f.chunk.js.map": "/castia-market-insight/static/js/277.d499609f.chunk.js.map",
-    "795.beae1ee7.chunk.js.map": "/castia-market-insight/static/js/795.beae1ee7.chunk.js.map"
+    "277.8d1ffa4d.chunk.js.map": "/castia-market-insight/static/js/277.8d1ffa4d.chunk.js.map",
+    "795.55f7bd7d.chunk.js.map": "/castia-market-insight/static/js/795.55f7bd7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb8495a3.css",
-    "static/js/main.a8663d16.js"
+    "static/css/main.e5ff73a1.css",
+    "static/js/main.b87218df.js"
   ]
 }
