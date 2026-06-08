@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/castia-market-insight/static/css/main.ed56ebc4.css",
-    "main.js": "/castia-market-insight/static/js/main.d30a7ae3.js",
+    "main.css": "/castia-market-insight/static/css/main.43f96ca8.css",
+    "main.js": "/castia-market-insight/static/js/main.b8ab6ab5.js",
     "index.html": "/castia-market-insight/index.html",
-    "main.ed56ebc4.css.map": "/castia-market-insight/static/css/main.ed56ebc4.css.map",
-    "main.d30a7ae3.js.map": "/castia-market-insight/static/js/main.d30a7ae3.js.map"
+    "main.43f96ca8.css.map": "/castia-market-insight/static/css/main.43f96ca8.css.map",
+    "main.b8ab6ab5.js.map": "/castia-market-insight/static/js/main.b8ab6ab5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed56ebc4.css",
-    "static/js/main.d30a7ae3.js"
+    "static/css/main.43f96ca8.css",
+    "static/js/main.b8ab6ab5.js"
   ]
 }
