@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/castia-market-insight/static/css/main.d68dd2f4.css",
-    "main.js": "/castia-market-insight/static/js/main.925e478b.js",
+    "main.js": "/castia-market-insight/static/js/main.aadf0374.js",
     "static/js/383.b61f3068.chunk.js": "/castia-market-insight/static/js/383.b61f3068.chunk.js",
     "static/js/946.38f80356.chunk.js": "/castia-market-insight/static/js/946.38f80356.chunk.js",
     "static/js/589.ccbfd5ca.chunk.js": "/castia-market-insight/static/js/589.ccbfd5ca.chunk.js",
@@ -20,10 +20,10 @@
     "static/js/44.607c478d.chunk.js": "/castia-market-insight/static/js/44.607c478d.chunk.js",
     "static/js/511.4f54fbbb.chunk.js": "/castia-market-insight/static/js/511.4f54fbbb.chunk.js",
     "static/js/977.e166af3f.chunk.js": "/castia-market-insight/static/js/977.e166af3f.chunk.js",
-    "static/js/795.3ca54203.chunk.js": "/castia-market-insight/static/js/795.3ca54203.chunk.js",
+    "static/js/795.e334ff86.chunk.js": "/castia-market-insight/static/js/795.e334ff86.chunk.js",
     "index.html": "/castia-market-insight/index.html",
     "main.d68dd2f4.css.map": "/castia-market-insight/static/css/main.d68dd2f4.css.map",
-    "main.925e478b.js.map": "/castia-market-insight/static/js/main.925e478b.js.map",
+    "main.aadf0374.js.map": "/castia-market-insight/static/js/main.aadf0374.js.map",
     "383.b61f3068.chunk.js.map": "/castia-market-insight/static/js/383.b61f3068.chunk.js.map",
     "946.38f80356.chunk.js.map": "/castia-market-insight/static/js/946.38f80356.chunk.js.map",
     "589.ccbfd5ca.chunk.js.map": "/castia-market-insight/static/js/589.ccbfd5ca.chunk.js.map",
@@ -42,10 +42,10 @@
     "44.607c478d.chunk.js.map": "/castia-market-insight/static/js/44.607c478d.chunk.js.map",
     "511.4f54fbbb.chunk.js.map": "/castia-market-insight/static/js/511.4f54fbbb.chunk.js.map",
     "977.e166af3f.chunk.js.map": "/castia-market-insight/static/js/977.e166af3f.chunk.js.map",
-    "795.3ca54203.chunk.js.map": "/castia-market-insight/static/js/795.3ca54203.chunk.js.map"
+    "795.e334ff86.chunk.js.map": "/castia-market-insight/static/js/795.e334ff86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d68dd2f4.css",
-    "static/js/main.925e478b.js"
+    "static/js/main.aadf0374.js"
   ]
 }
