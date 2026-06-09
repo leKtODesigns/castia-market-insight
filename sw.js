@@ -8,7 +8,7 @@
 //     image hosts): pass through unchanged. The app is useless
 //     without network for live prices, so we don't pretend to
 //     support offline browsing of dynamic data.
-const VERSION = "castia-0efaa9d";
+const VERSION = "castia-3496b41";
 const STATIC_CACHE = `${VERSION}-static`;
 const PRECACHE_URLS = [
   "./",
