@@ -60,6 +60,12 @@ self.addEventListener("fetch", (event) => {
   // Google Fonts, image CDNs) goes straight to the network.
   if (url.origin !== self.location.origin) return;
 
+  // Always fetch version.json from network to ensure fresh version checks
+  if (url.pathname.endsWith("version.json")) {
+    event.respondWith(fetch(request, { cache: "no-store" }));
+    return;
+  }
+
   // Navigation requests: network-first, fall back to cached shell.
   if (request.mode === "navigate") {
     event.respondWith(

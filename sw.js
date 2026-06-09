@@ -8,7 +8,7 @@
 //     image hosts): pass through unchanged. The app is useless
 //     without network for live prices, so we don't pretend to
 //     support offline browsing of dynamic data.
-const VERSION = "castia-4dfa45b";
+const VERSION = "castia-3e3822b";
 const STATIC_CACHE = `${VERSION}-static`;
 const PRECACHE_URLS = [
   "./",
@@ -59,6 +59,12 @@ self.addEventListener("fetch", (event) => {
   // Only handle same-origin requests. Cross-origin (worker API,
   // Google Fonts, image CDNs) goes straight to the network.
   if (url.origin !== self.location.origin) return;
+
+  // Always fetch version.json from network to ensure fresh version checks
+  if (url.pathname.endsWith("version.json")) {
+    event.respondWith(fetch(request, { cache: "no-store" }));
+    return;
+  }
 
   // Navigation requests: network-first, fall back to cached shell.
   if (request.mode === "navigate") {
