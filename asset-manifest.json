@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/castia-market-insight/static/css/main.2da1f6b9.css",
-    "main.js": "/castia-market-insight/static/js/main.1a6098ba.js",
+    "main.css": "/castia-market-insight/static/css/main.26339d8c.css",
+    "main.js": "/castia-market-insight/static/js/main.c46c646f.js",
     "static/js/277.47549207.chunk.js": "/castia-market-insight/static/js/277.47549207.chunk.js",
     "static/js/750.0cb46f0f.chunk.js": "/castia-market-insight/static/js/750.0cb46f0f.chunk.js",
     "static/js/942.c49d5893.chunk.js": "/castia-market-insight/static/js/942.c49d5893.chunk.js",
     "static/js/155.c0773790.chunk.js": "/castia-market-insight/static/js/155.c0773790.chunk.js",
     "static/js/635.a7edbbb6.chunk.js": "/castia-market-insight/static/js/635.a7edbbb6.chunk.js",
-    "static/js/671.35381b74.chunk.js": "/castia-market-insight/static/js/671.35381b74.chunk.js",
+    "static/js/625.259045a8.chunk.js": "/castia-market-insight/static/js/625.259045a8.chunk.js",
     "static/js/819.f21f1d5e.chunk.js": "/castia-market-insight/static/js/819.f21f1d5e.chunk.js",
     "static/js/315.7e591d53.chunk.js": "/castia-market-insight/static/js/315.7e591d53.chunk.js",
     "static/js/475.9c50f21f.chunk.js": "/castia-market-insight/static/js/475.9c50f21f.chunk.js",
@@ -23,14 +23,14 @@
     "static/js/35.4224c511.chunk.js": "/castia-market-insight/static/js/35.4224c511.chunk.js",
     "static/js/795.c5939abe.chunk.js": "/castia-market-insight/static/js/795.c5939abe.chunk.js",
     "index.html": "/castia-market-insight/index.html",
-    "main.2da1f6b9.css.map": "/castia-market-insight/static/css/main.2da1f6b9.css.map",
-    "main.1a6098ba.js.map": "/castia-market-insight/static/js/main.1a6098ba.js.map",
+    "main.26339d8c.css.map": "/castia-market-insight/static/css/main.26339d8c.css.map",
+    "main.c46c646f.js.map": "/castia-market-insight/static/js/main.c46c646f.js.map",
     "277.47549207.chunk.js.map": "/castia-market-insight/static/js/277.47549207.chunk.js.map",
     "750.0cb46f0f.chunk.js.map": "/castia-market-insight/static/js/750.0cb46f0f.chunk.js.map",
     "942.c49d5893.chunk.js.map": "/castia-market-insight/static/js/942.c49d5893.chunk.js.map",
     "155.c0773790.chunk.js.map": "/castia-market-insight/static/js/155.c0773790.chunk.js.map",
     "635.a7edbbb6.chunk.js.map": "/castia-market-insight/static/js/635.a7edbbb6.chunk.js.map",
-    "671.35381b74.chunk.js.map": "/castia-market-insight/static/js/671.35381b74.chunk.js.map",
+    "625.259045a8.chunk.js.map": "/castia-market-insight/static/js/625.259045a8.chunk.js.map",
     "819.f21f1d5e.chunk.js.map": "/castia-market-insight/static/js/819.f21f1d5e.chunk.js.map",
     "315.7e591d53.chunk.js.map": "/castia-market-insight/static/js/315.7e591d53.chunk.js.map",
     "475.9c50f21f.chunk.js.map": "/castia-market-insight/static/js/475.9c50f21f.chunk.js.map",
@@ -47,7 +47,7 @@
     "795.c5939abe.chunk.js.map": "/castia-market-insight/static/js/795.c5939abe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2da1f6b9.css",
-    "static/js/main.1a6098ba.js"
+    "static/css/main.26339d8c.css",
+    "static/js/main.c46c646f.js"
   ]
 }
