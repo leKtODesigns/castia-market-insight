@@ -1,7 +1,7 @@
 {
   "name": "Castia Market",
   "short_name": "Castia",
-  "description": "Castia auction-house price tracker, refreshed every five minutes.",
+  "description": "Observed Castia auction prices, chest-shop stock, locations, and shop maps.",
   "start_url": "/castia-market-insight/",
   "scope": "/castia-market-insight/",
   "display": "standalone",
